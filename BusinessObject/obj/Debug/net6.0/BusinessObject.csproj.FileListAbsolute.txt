@@ -1,0 +1,14 @@
+E:\PRN211\LibrayManagement_Winform\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+E:\PRN211\LibrayManagement_Winform\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+E:\PRN211\LibrayManagement_Winform\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+E:\PRN211\LibrayManagement_Winform\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211\LibrayManagement_Winform\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+E:\PRN211\LibrayManagement_Winform\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+E:\PRN211\LibrayManagement_Winform\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\PRN211\LibrayManagement_Winform\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+E:\PRN211\LibrayManagement_Winform\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+E:\PRN211\LibrayManagement_Winform\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+E:\PRN211\LibrayManagement_Winform\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+E:\PRN211\LibrayManagement_Winform\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+E:\PRN211\LibrayManagement_Winform\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+E:\PRN211\LibrayManagement_Winform\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache

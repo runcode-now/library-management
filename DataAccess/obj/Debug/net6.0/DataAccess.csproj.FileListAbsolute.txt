@@ -1,0 +1,15 @@
+E:\PRN211\LibrayManagement_Winform\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\PRN211\LibrayManagement_Winform\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\PRN211\LibrayManagement_Winform\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\PRN211\LibrayManagement_Winform\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+E:\PRN211\LibrayManagement_Winform\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+E:\PRN211\LibrayManagement_Winform\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\PRN211\LibrayManagement_Winform\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211\LibrayManagement_Winform\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\PRN211\LibrayManagement_Winform\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\PRN211\LibrayManagement_Winform\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\PRN211\LibrayManagement_Winform\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+E:\PRN211\LibrayManagement_Winform\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\PRN211\LibrayManagement_Winform\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+E:\PRN211\LibrayManagement_Winform\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\PRN211\LibrayManagement_Winform\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
