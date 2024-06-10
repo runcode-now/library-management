@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\OneDrive\\Máy tính\\LibrayManagement_Winform\\library-management\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\Admin\\OneDrive\\Máy tính\\LibrayManagement_Winform\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\OneDrive\\Máy tính\\LibrayManagement_Winform\\library-management\\BusinessObject\\BusinessObject.csproj": {
+    "C:\\Users\\Admin\\OneDrive\\Máy tính\\LibrayManagement_Winform\\BusinessObject\\BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Máy tính\\LibrayManagement_Winform\\library-management\\BusinessObject\\BusinessObject.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Máy tính\\LibrayManagement_Winform\\BusinessObject\\BusinessObject.csproj",
         "projectName": "BusinessObject",
-        "projectPath": "C:\\Users\\Admin\\OneDrive\\Máy tính\\LibrayManagement_Winform\\library-management\\BusinessObject\\BusinessObject.csproj",
+        "projectPath": "C:\\Users\\Admin\\OneDrive\\Máy tính\\LibrayManagement_Winform\\BusinessObject\\BusinessObject.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive\\Máy tính\\LibrayManagement_Winform\\library-management\\BusinessObject\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\OneDrive\\Máy tính\\LibrayManagement_Winform\\BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\OneDrive\\Máy tính\\LibrayManagement_Winform\\library-management\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Admin\\OneDrive\\Máy tính\\LibrayManagement_Winform\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Máy tính\\LibrayManagement_Winform\\library-management\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Máy tính\\LibrayManagement_Winform\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Admin\\OneDrive\\Máy tính\\LibrayManagement_Winform\\library-management\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\Admin\\OneDrive\\Máy tính\\LibrayManagement_Winform\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive\\Máy tính\\LibrayManagement_Winform\\library-management\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\OneDrive\\Máy tính\\LibrayManagement_Winform\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,8 +99,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\OneDrive\\Máy tính\\LibrayManagement_Winform\\library-management\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "C:\\Users\\Admin\\OneDrive\\Máy tính\\LibrayManagement_Winform\\library-management\\BusinessObject\\BusinessObject.csproj"
+              "C:\\Users\\Admin\\OneDrive\\Máy tính\\LibrayManagement_Winform\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "C:\\Users\\Admin\\OneDrive\\Máy tính\\LibrayManagement_Winform\\BusinessObject\\BusinessObject.csproj"
               }
             }
           }
